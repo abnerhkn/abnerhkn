@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Abner Hakinnen 🚀</h1>
+<h1 align="center">Oi, sou Abner Hakinnen</h1>
 
 <p align="center">
   <b>Desenvolvedor FullStack | Apaixonado por Análise de Dados e UX/UI</b>
