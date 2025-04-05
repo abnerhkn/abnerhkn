@@ -5,16 +5,18 @@
 <h3 align="center">Full Stack Developer | Software Engineer</h3>
 
 <p align="center">
-  🚀 Turning ideas into code &nbsp;&nbsp;|&nbsp;&nbsp; 🎯 Clean, scalable architecture &nbsp;&nbsp;|&nbsp;&nbsp; 🧩 Constant learner
+  🚀 Turning ideas into code &nbsp;&nbsp;|&nbsp;&nbsp; 📱 Web & Mobile Development &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 REST API Enthusiast
 </p>
 
 ---
 
 🎓 Graduated in Software Engineering from **Universidade Federal do Ceará (UFC)**  
 🌍 Based in Brazil  
-💻 Passionate about creating scalable web applications and delightful user experiences  
-🎯 Currently learning .NET C# to expand my tech toolkit  
-🛠️ Always building, always learning
+💻 Focused on building modern web and mobile applications using clean architecture  
+🔗 Experienced with RESTful APIs using Node.js, Python, and Ruby on Rails  
+📱 Also building mobile apps with **React Native**  
+📘 Currently learning .NET C# to expand my stack  
+🛠️ Always building, always evolving
 
 ---
 
@@ -26,12 +28,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-**Backend:**  
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)&nbsp;
+**Backend / APIs:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)&nbsp;
 ![Database](https://img.shields.io/badge/Database-4DB33D?style=flat&logo=postgresql&logoColor=white)
 
 **Learning:**  
