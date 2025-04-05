@@ -4,6 +4,10 @@
 <h1 align="center">Hi there, I'm Abner Hakinnen 👋</h1>
 <h3 align="center">Full Stack Developer | Software Engineer</h3>
 
+<p align="center">
+  🚀 Turning ideas into code &nbsp;&nbsp;|&nbsp;&nbsp; 🎯 Clean, scalable architecture &nbsp;&nbsp;|&nbsp;&nbsp; 🧩 Constant learner
+</p>
+
 ---
 
 🎓 Graduated in Software Engineering from **Universidade Federal do Ceará (UFC)**  
@@ -35,6 +39,36 @@
 
 ---
 
+### 🛠️ Favorite Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Bruno-000000?style=flat&logo=data&logoColor=white" alt="Bruno"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+---
+
+### 🚀 Featured Project (soon)
+
+<!--
+![Project Demo](https://your-demo-gif-link.gif)
+
+**[Project Name](https://github.com/seuusuario/seuprojeto)** – A brief description of what the project does and why it's awesome.
+-->
+
+Stay tuned! Cool stuff coming soon 🔧
+
+---
+
+### 📊 GitHub Stats
+
+![Abner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abnerhakinnen&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerhakinnen&layout=compact&theme=github_dark)
+
+---
+
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnerhakinnen/)  
@@ -42,6 +76,19 @@
 
 ---
 
+### 💬 Let's talk
+
+I'm always open to new opportunities, collaborations, or just a good chat about tech.  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abnerhakinnen/) or send a DM on [Instagram](http://instagram.com/abnerhakinnen)!
+
+---
+
 ### 🧭 Quote I live by
 
 > *"Life is short; its fruit is good character and actions for the common good."*
+
+---
+
+### 🎧 Currently vibing to...
+
+[![Now Playing](https://img.shields.io/badge/Now_Playing-%F0%9F%8E%B6_Stuck_with_Me_by_The_Neighbourhood-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/track/6eMeqiSoQYtM8u3vvfth21?si=dcd86058f0fb43d9)
