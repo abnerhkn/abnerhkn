@@ -2,43 +2,41 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" alt="Welcome GIF" />
 
 <h1 align="center">Hi there, I'm Abner Hakinnen 👋</h1>
-<h3 align="center">Full Stack Developer | Software Engineer</h3>
+<h3 align="center">Software Engineer transitioning to Data Engineering | Python, SQL, Cloud & Data Pipelines</h3>
 
 <p align="center">
-  🚀 Turning ideas into code &nbsp;&nbsp;|&nbsp;&nbsp; 📱 Web & Mobile Development &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 REST API Enthusiast
+  📊 From building systems to building data flows &nbsp;&nbsp;|&nbsp;&nbsp; ☁️ Cloud Enthusiast & DataOps Explorer &nbsp;&nbsp;|&nbsp;&nbsp; 🔄 ETL/ELT Orchestration
 </p>
 
 ---
 
 🎓 Graduated in Software Engineering from **Universidade Federal do Ceará (UFC)**  
-🌍 Based in Brazil  
-💻 Focused on building modern web and mobile applications using clean architecture  
-🔗 Experienced with RESTful APIs using Node.js, Python, and Ruby on Rails  
-📱 Also building mobile apps with **React Native**  
-📘 Currently learning .NET C# to expand my stack  
-🛠️ Always building, always evolving
+🏢 Currently at **Linx**, moving data and integrating systems  
+📍 Based in Brazil  
+💻 Focused on **Data Engineering**, working with **Python**, **SQL**, **Airflow**, **Kafka** and **Cloud Infrastructure**  
+🔄 Building **ETL/ELT Pipelines**, **Data Workflows**, and **Real-time Data Streams**  
+☁️ Exploring **AWS**, **GCP** and cloud-native services  
+🛠️ Passionate about **automation**, **system integration**, and **scalable architecture**
 
 ---
 
-### 🧠 Tech Stack
+### 🧐 Tech Stack
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend / APIs:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
+**Data Engineering:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)&nbsp;
-![Database](https://img.shields.io/badge/Database-4DB33D?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Learning:**  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+**Infrastructure & Orchestration:**  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Learning/Exploring:**  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)&nbsp;
+![dbt](https://img.shields.io/badge/dbt-FF692E?style=flat&logo=dbt&logoColor=white)
 
 ---
 
@@ -47,21 +45,18 @@
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Bruno-000000?style=flat&logo=data&logoColor=white" alt="Bruno"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 ---
 
-### 🚀 Featured Project (soon)
+### 🚀 Featured Project (coming soon)
 
-<!--
-![Project Demo](https://your-demo-gif-link.gif)
+**[Weather Data Pipeline](https://github.com/seuusuario/weather-pipeline)** – Real-time ETL pipeline fetching weather data and storing in a PostgreSQL database.  
+☁️ Built with Python, scheduled with Airflow, and orchestrated for future scalability.
 
-**[Project Name](https://github.com/seuusuario/seuprojeto)** – A brief description of what the project does and why it's awesome.
--->
-
-Stay tuned! Cool stuff coming soon 🔧
+Stay tuned — more real-world pipelines and data engineering projects coming! 🚀
 
 ---
 
@@ -81,17 +76,17 @@ Stay tuned! Cool stuff coming soon 🔧
 
 ### 💬 Let's talk
 
-I'm always open to new opportunities, collaborations, or just a good chat about tech.  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abnerhakinnen/) or send a DM on [Instagram](http://instagram.com/abnerhakinnen)!
+I'm open to collaborate on data engineering projects, contribute to open-source, or chat about data systems!  
+📢 Let's connect via [LinkedIn](https://www.linkedin.com/in/abnerhakinnen/) or [Instagram](http://instagram.com/abnerhakinnen)!
 
 ---
 
-### 🧭 Quote I live by
+### 🧽 Quote I live by
 
 > *"Life is short; its fruit is good character and actions for the common good."*
 
 ---
 
-### 🎧 Currently vibing to...
+### 🎵 Currently vibing to...
 
 [![Now Playing](https://img.shields.io/badge/Now_Playing-%F0%9F%8E%B6_Stuck_with_Me_by_The_Neighbourhood-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/track/6eMeqiSoQYtM8u3vvfth21?si=dcd86058f0fb43d9)
