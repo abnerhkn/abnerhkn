@@ -51,22 +51,6 @@
 
 ---
 
-### 🚀 Featured Project (coming soon)
-
-**[Weather Data Pipeline](https://github.com/seuusuario/weather-pipeline)** – Real-time ETL pipeline fetching weather data and storing in a PostgreSQL database.  
-☁️ Built with Python, scheduled with Airflow, and orchestrated for future scalability.
-
-Stay tuned — more real-world pipelines and data engineering projects coming! 🚀
-
----
-
-### 📊 GitHub Stats
-
-![Abner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abnerhakinnen&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerhakinnen&layout=compact&theme=github_dark)
-
----
-
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnerhakinnen/)  
