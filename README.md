@@ -1,49 +1,54 @@
 <h1 align="center">Hi there, I'm Abner Hakinnen 👋</h1>
-<h3 align="center">Data Engineer | Python, SQL, Airflow, Cloud & Data Pipelines</h3>
+<h3 align="center">Data & Technology Engineer | Data Pipelines • Integrations • Cloud</h3>
 
 <p align="center">
-  📊 Building scalable data pipelines & dashboards &nbsp;|&nbsp; ☁️ Cloud & DataOps Enthusiast &nbsp;|&nbsp; 🔄 ETL/ELT Orchestration
+  🔄 System Integration & Data Processing in High-Transaction Environments  
+  📊 ETL/ELT • Automation • Cloud Architectures  
 </p>
 
 ---
 
-🎓 Bachelor in Software Engineering – **Universidade Federal do Ceará (UFC)**  
-🏢 Currently at **Linx**, developing data pipelines and integrations for LATAM clients  
-📍 Based in Brazil  
-💻 Focused on **Data Engineering** with **Python, SQL, Airflow, Databricks, AWS**  
-🔄 Experienced in **ETL/ELT Pipelines**, **Workflow Orchestration** and **Real-time Data Processing**  
-📊 Skilled in **Power BI** for building strategic dashboards and monitoring KPIs  
-☁️ Working with **AWS (EC2, S3, Lambda, CloudFormation)** and exploring **Terraform & GCP**  
-🚀 Passionate about **automation**, **system integration**, and **scalable cloud architectures**
+🎓 **Bachelor in Software Engineering – Universidade Federal do Ceará (UFC)**  
+💼 Experience with **system integration**, **data engineering** and **high-transaction data processing** (e-commerce environments)  
+💻 Focused on **data pipelines**, **software architectures**, and **process automation**  
+☁️ Working with **AWS Cloud**, event-based processing, orchestration tools and modern data platforms  
+🔧 Background in **REST/SOAP APIs**, workflow automation and scalable back-end pipelines  
 
 ---
 
-### 🧐 Tech Stack
+## 🛠️ Tech Stack & Skills
 
-**Data Engineering:**  
-Python • SQL • Apache Kafka • Apache Airflow • PySpark • Databricks • AWS (S3, EC2, Lambda, Glue) • Docker • DBT  
+### **Data Engineering & Processing**
+Python • SQL • ETL/ELT • Data Pipelines • Kafka • Apache Airflow • Kestra • Databricks
 
-**Infrastructure & Orchestration:**  
-Terraform • CloudFormation • GitHub Actions (CI/CD) • Linux  
+### **Cloud & Infrastructure**
+AWS Cloud • Docker • Git • APIs REST/SOAP
 
-**BI & Visualization:**  
-Power BI • Excel Avançado  
+### **BI & Visualization**
+Power BI • QuickSight • Looker Studio
 
-**Learning/Exploring:**  
-GCP • Snowflake • Advanced Terraform  
-
----
-
-### 🚀 Highlights
-
-- Automated reports and monitoring pipelines, **reducing response time by 40%** at Linx  
-- Designed **ETL/ELT pipelines** in Databricks + Airflow, integrating e-commerces and ERPs across LATAM  
-- Created **strategic dashboards in Power BI** for real-time monitoring of SLAs and operational efficiency  
+### **Project & Workflow**
+Agile • PMO • Automation • Monitoring
 
 ---
 
-### 🌐 Connect with me
+## 🚀 Highlights & Professional Focus
+- Experience with **system integration** and **data processing** in high-volume environments  
+- Development of **data pipelines** and **automated workflows** to improve operational efficiency  
+- Strong interest in **software architecture**, **clean code**, and scalable data systems  
+- Continuous learning in cloud, orchestration tools, automation and modern data platforms  
+
+---
+
+## 📚 Reference Books That Guide My Work
+- *Clean Architecture* – Robert C. Martin  
+- *Clean Code* – Robert C. Martin  
+- *The Clean Coder* – Robert C. Martin  
+- *Storytelling with Data* – Cole Nussbaumer Knaflic  
+- *Fundamentals of Data Engineering* – Joe Reis & Matt Housley  
+
+---
+
+## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnerhakinnen/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](http://instagram.com/abnerhakinnen)
-
----
