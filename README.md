@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abner Hakinnen 👋</h1>
-<h3 align="center">Data & Technology Engineer | Data Pipelines • Integrations • Cloud</h3>
+<h3 align="center">Data & Analytics Engineer  | Data Pipelines • Integrations • Cloud</h3>
 
 <p align="center">
   🔄 System Integration & Data Processing in High-Transaction Environments  
