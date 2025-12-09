@@ -1,3 +1,6 @@
+
+<img width="1129" height="282" alt="image" src="https://github.com/user-attachments/assets/575cf0ad-826d-4672-af77-0a0f91411ad8" />
+
 <h1 align="center">Hi there, I'm Abner Hakinnen 👋</h1>
 <h3 align="center">Data & Analytics Engineer  | Data Pipelines • Integrations • Cloud</h3>
 
