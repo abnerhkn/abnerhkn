@@ -1,79 +1,65 @@
-
 <img width="1129" height="282" alt="image" src="https://github.com/user-attachments/assets/575cf0ad-826d-4672-af77-0a0f91411ad8" />
 
 # Hi, I'm Abner Hakinnen 👋
 
-### Analytics Engineer | Data Pipelines • ETL/ELT • Cloud • BI
+### Analytics & Data Engineer | Python, SQL & AWS | AI & RAG Enthusiast 🇮🇪
 
-I am an Analytics Engineer with 2+ years of experience building data
-pipelines, integrations, and BI solutions.
+I am a data professional with 2+ years of experience transforming raw data into reliable, executive-level insights. I specialize in building scalable data pipelines, consolidating complex integrations into a "Single Source of Truth", and **automating workflows to drive up to 40% reporting efficiency.**
 
-I design and maintain ETL/ELT workflows, integrate data using APIs, and
-transform raw data into reliable datasets for analysis.
-My goal is to create clean, scalable, and business-focused data systems.
+Recently, I've been bridging the gap between Data Engineering and Artificial Intelligence by building **LLM-powered applications and RAG pipelines**. 
 
-Currently based in Brazil 🇧🇷 and preparing to move to Ireland 🇮🇪 to grow
-in international data-driven environments.
+🌍 **Currently based in Brazil 🇧🇷 | Relocating to Ireland 🇮🇪**
+*(Actively seeking opportunities in dynamic, data-driven environments in the EU).*
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 What I Do
 
--   Build and optimize data pipelines (ETL / ELT)
--   Integrate systems using REST APIs
--   Transform raw data into analytics-ready models
--   Improve data quality and reporting accuracy
--   Support business decisions with reliable dashboards
+- **Data Architecture:** Build and optimize robust ETL/ELT pipelines using modern orchestration tools.
+- **AI Integration:** Develop Retrieval-Augmented Generation (RAG) systems to extract insights from unstructured data.
+- **API Integrations:** Connect and ingest data from complex third-party REST APIs.
+- **Analytics Engineering:** Transform raw data into analytics-ready models for high-level business intelligence.
+- **Business Impact:** Deliver reliable metrics (MRR, Churn, NRR) that empower faster decision-making.
 
-------------------------------------------------------------------------
+---
+
+## 🔥 Featured Project
+
+### 📺 [YT Intelligence RAG Pipeline](https://github.com/abnerhakinnen/yt-intelligence-rag)
+An end-to-end AI Web Application that "watches" YouTube videos and answers user questions about the content in real-time. 
+- **How it works:** Extracts video transcripts, generates local vector embeddings, stores them in a vector database, and uses an LLM to chat with the data.
+- **Tech Stack:** `Python` `LangChain` `Pinecone` `HuggingFace` `Groq (LLaMA 3)` `Streamlit`
+
+---
 
 ## 🛠 Tech Stack
 
-### Data Engineering
+**Data Engineering & Orchestration:** `Python` • `SQL` • `Apache Airflow` • `Kestra` • `Kafka` • `Data Modeling`
 
-Python • SQL • ETL/ELT • Data Modeling
-Apache Airflow • Kestra • Kafka
+**AI & Generative AI 🆕:** `LangChain` • `Vector Databases (Pinecone)` • `HuggingFace Embeddings` • `LLMs (Groq / OpenAI)`
 
-### Cloud & Infrastructure
+**Cloud & Infrastructure:** `AWS` • `Docker` • `Git` • `REST APIs` • `Event-driven workflows`
 
-AWS • Docker • Git
-REST APIs • Event-driven workflows
+**Data Warehousing:** `Databricks` • `Amazon Redshift` • `Google BigQuery`
 
-### Data Warehouse
+**BI & Visualization:** `Amazon QuickSight` • `Power BI` • `Looker Studio`
 
-BigQuery • Redshift • Databricks
+---
 
-### BI & Visualization
+## 📚 Books That Influence My Engineering Mindset
 
-Power BI • Looker Studio • Amazon QuickSight
+A great architecture is built on solid foundations. These are the books that shape my code:
+- *Clean Architecture* & *Clean Code* — Robert C. Martin
+- *Fundamentals of Data Engineering* — Joe Reis & Matt Housley
+- *Storytelling with Data* — Cole Nussbaumer Knaflic
 
-------------------------------------------------------------------------
+---
 
-## 📊 Professional Focus
+## 📬 Let's Connect!
 
--   Clean and scalable data architecture
--   Modern Data Stack practices
--   Automation and workflow orchestration
--   Reliable business metrics (MRR, Churn, NRR)
--   Strong data foundations for decision-making
+I am always learning, building, and open to discussing data architectures, AI, and new opportunities in Ireland.
 
-------------------------------------------------------------------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnerhakinnen/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/abnerhakinnen)
 
-## 📚 Books That Influence My Work
-
--   Clean Architecture -- Robert C. Martin
--   Clean Code -- Robert C. Martin
--   Fundamentals of Data Engineering -- Joe Reis & Matt Housley
--   Storytelling with Data -- Cole Nussbaumer Knaflic
-
-------------------------------------------------------------------------
-
-## 🌍 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/abnerhakinnen/
-Instagram: http://instagram.com/abnerhakinnen
-
-------------------------------------------------------------------------
-
-⭐ I am always learning and building better data systems.
-
+⭐ *If you find my projects helpful, feel free to drop a star!*
