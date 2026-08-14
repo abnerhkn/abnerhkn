@@ -8,7 +8,7 @@ I am a data professional with 2+ years of experience transforming raw data into 
 
 Recently, I've been bridging the gap between Data Engineering and Artificial Intelligence by building **LLM-powered applications and RAG pipelines**. 
 
-🌍 **Currently based in Brazil 🇧🇷 | Relocating to Ireland 🇮🇪**
+🌍 **Currently based in Ireland 🇮🇪 **
 *(Actively seeking opportunities in dynamic, data-driven environments in the EU).*
 
 ---
