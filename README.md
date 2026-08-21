@@ -1,65 +1,46 @@
-<img width="1129" height="282" alt="image" src="https://github.com/user-attachments/assets/575cf0ad-826d-4672-af77-0a0f91411ad8" />
+# Abner Hakinnen
 
-# Hi, I'm Abner Hakinnen 👋
+### Senior Analytics & Data Engineer | AWS | Python & SQL | Generative AI & RAG Specialist
 
-### Analytics & Data Engineer | Python, SQL & AWS | AI & RAG Enthusiast 🇮🇪
+Data engineering professional with 4+ years of experience transforming raw data into reliable, executive-level insights. Expertise in building scalable data pipelines, consolidating complex integrations into a "Single Source of Truth", and automating workflows to drive up to 40% reporting efficiency. Currently specializing in bridging the gap between Data Engineering and Artificial Intelligence by developing LLM-powered applications and robust RAG pipelines.
 
-I am a data professional with 2+ years of experience transforming raw data into reliable, executive-level insights. I specialize in building scalable data pipelines, consolidating complex integrations into a "Single Source of Truth", and **automating workflows to drive up to 40% reporting efficiency.**
-
-Recently, I've been bridging the gap between Data Engineering and Artificial Intelligence by building **LLM-powered applications and RAG pipelines**. 
-
-🌍 **Currently based in Ireland 🇮🇪**
-*(Actively seeking opportunities in dynamic, data-driven environments in the EU).*
+Currently based in Ireland (EU Citizen candidate/seeking visa-sponsored opportunities).
 
 ---
 
-## 🚀 What I Do
+## Core Competencies
 
-- **Data Architecture:** Build and optimize robust ETL/ELT pipelines using modern orchestration tools.
-- **AI Integration:** Develop Retrieval-Augmented Generation (RAG) systems to extract insights from unstructured data.
-- **API Integrations:** Connect and ingest data from complex third-party REST APIs.
-- **Analytics Engineering:** Transform raw data into analytics-ready models for high-level business intelligence.
-- **Business Impact:** Deliver reliable metrics (MRR, Churn, NRR) that empower faster decision-making.
-
----
-
-## 🔥 Featured Project
-
-### 📺 [YT Intelligence RAG Pipeline](https://github.com/abnerhakinnen/yt-intelligence-rag)
-An end-to-end AI Web Application that "watches" YouTube videos and answers user questions about the content in real-time. 
-- **How it works:** Extracts video transcripts, generates local vector embeddings, stores them in a vector database, and uses an LLM to chat with the data.
-- **Tech Stack:** `Python` `LangChain` `Pinecone` `HuggingFace` `Groq (LLaMA 3)` `Streamlit`
+*   **Data Architecture:** Design and optimization of robust ETL/ELT pipelines with modern orchestration tools.
+*   **Analytics Engineering:** Transformation of raw data into analytics-ready models for high-level business intelligence.
+*   **AI & RAG Integration:** Development of Retrieval-Augmented Generation (RAG) systems to extract insights from unstructured data.
+*   **Infrastructure as Code (IaC):** Automatization of cloud infrastructure provisioning and management.
+*   **API Integrations:** Seamless connection and data ingestion from complex third-party REST APIs.
+*   **Business Impact:** Delivery of critical business metrics (MRR, Churn, NRR) to empower data-driven decision-making.
 
 ---
 
-## 🛠 Tech Stack
+## Featured Project
 
-**Data Engineering & Orchestration:** `Python` • `SQL` • `Apache Airflow` • `Kestra` • `Kafka` • `Data Modeling`
+### YT Intelligence RAG Pipeline
+[View Repository](https://github.com/abnerhakinnen/yt-intelligence-rag)
 
-**AI & Generative AI 🆕:** `LangChain` • `Vector Databases (Pinecone)` • `HuggingFace Embeddings` • `LLMs (Groq / OpenAI)`
+An end-to-end AI application that implements an event-driven data pipeline to ingest, transform, and leverage YouTube video transcripts as scalable knowledge.
 
-**Cloud & Infrastructure:** `AWS` • `Docker` • `Git` • `REST APIs` • `Event-driven workflows`
-
-**Data Warehousing:** `Databricks` • `Amazon Redshift` • `Google BigQuery`
-
-**BI & Visualization:** `Amazon QuickSight` • `Power BI` • `Looker Studio`
+*   **Core Engineering:** Automates the collection of transcript data, manages local vector embedding generation, stores vectors in a scalable vector database, and leverages an LLM for real-time natural language querying over the ingested video content.
+*   **Tech Stack:** Python, LangChain, Pinecone, HuggingFace, Groq (LLaMA 3), Streamlit.
 
 ---
 
-## 📚 Books That Influence My Engineering Mindset
+## Technical Stack
 
-A great architecture is built on solid foundations. These are the books that shape my code:
-- *Clean Architecture* & *Clean Code* — Robert C. Martin
-- *Fundamentals of Data Engineering* — Joe Reis & Matt Housley
-- *Storytelling with Data* — Cole Nussbaumer Knaflic
+**Data Engineering & Transformation:**
+*   Python, SQL, **dbt**, Apache Airflow, Kestra, Kafka, Data Modeling
 
----
+**AI & Generative AI:**
+*   LangChain, Vector Databases (Pinecone), HuggingFace Embeddings, LLMs (Groq / OpenAI)
 
-## 📬 Let's Connect!
+**Cloud & Infrastructure:**
+*   AWS, **Terraform**, Docker, Git, REST APIs, Event-driven workflows
 
-I am always learning, building, and open to discussing data architectures, AI, and new opportunities in Ireland.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnerhakinnen/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/abnerhakinnen)
-
-⭐ *If you find my projects helpful, feel free to drop a star!*
+**Data Warehousing:**
+*   Databricks, Amazon Redshift, Google BigQuery
